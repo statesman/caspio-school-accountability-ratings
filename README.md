@@ -1,5 +1,11 @@
-Single-page project
+School accountability ratings
 ==============================
+
+A caspio fed database of school ratings from the TEA. Uses the single-page-project template, even though it is not a single page ;-).
+
+New ratings come out August 7, 2015.
+
+# Single-page project
 
 Framework for a single page project, though it could be multiple pages. Just less complex than our immersive-template setup.
 
@@ -35,4 +41,3 @@ The path is in `Gruntfile.js`. Add the username/password into a file called `.ft
 ### slack msg
 
 The `grunt-slack-hook` plugin let's us publish finished url to slack as part of ftpush. Needs a .slack file with the Webhook URL from Slack configurations. Just a single line with that url and no return.
-
