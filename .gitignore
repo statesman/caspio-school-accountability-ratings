@@ -57,3 +57,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Building scripts
+# means you have to run files locally before pushing
+dist
