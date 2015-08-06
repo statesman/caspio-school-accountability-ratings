@@ -94,7 +94,7 @@
           <a class="btn btn-default" href="./" role="button">Search</a>
         </div>
 
-<!-- 2014 Campus Detail_1 -->
+        <!-- 2014 Campus Detail_v2 -->
         <div id="cbe76c00000e3c94d2346f4d79b45a"><a href="http://www.caspio.com" target="_blank">Online Database</a> by Caspio</div>
         <script type="text/javascript" src="http://b1.caspio.com/scripts/e1.js"></script>
         <script type="text/javascript">try{f_cbload("e76c00000e3c94d2346f4d79b45a","http:");}catch(v_e){;}</script>

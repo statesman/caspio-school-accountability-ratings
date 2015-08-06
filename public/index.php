@@ -95,6 +95,7 @@
         <p><strong>To compare schools:</strong> Start with the Region dropdown, then change others that apply to your comparison. Example: Start with Region and District, and then select the Grade Type you wish to compare schools across. Leave "Campus Name" blank. Click Search.</p>
         </div>
 
+        <!-- 2014 Campus Search_v2 -->
         <div id="cbe76c00000e6a09ca3fad4e93b61f"></div>
         <script type="text/javascript" src="http://b1.caspio.com/scripts/e1.js"></script>
         <script type="text/javascript">try{f_cbload("e76c00000e6a09ca3fad4e93b61f","http:");}catch(v_e){;}</script>

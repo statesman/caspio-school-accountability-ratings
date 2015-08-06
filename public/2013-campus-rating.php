@@ -104,13 +104,12 @@
       </div>
       <div class="col-lg-4">
         <h3>Reading Accountability Ratings</h3>
-    		<p>In the second year of the new accountability system, schools are deemed to have “met standard” or face “improvement required” ratings based on a measure comprised of four components. To meet state standards, each school and district must hit the target score on all indexes.</p>
+    		<p>In the first year of the new accountability system (2013), schools are deemed to have "met standard" or face "improvement required" based on a new measure that comprises four components. To meet state standards, each school and district must hit a target score on four performance indexes. Yes indicates the school met the standard. No indicates they did not meet the standard.</p>
     		<ul>
-    		<li><strong>Student Achievement</strong>: Score is based on the percentage of test scores at or above the satisfactory level. All students and all tests. Target: 55</li>
-    		<li><strong>Student Progress</strong>: Score is a weighted composite based on the percentage of scores for test-takers that met or exceeded progress measures on reading, math and writing. High schools were not rated in this category.</li>
-    		<li><strong>Closing Performance Gaps</strong>: Includes students who are economically disadvantaged and the two lowest performing ethnic groups the year before. Score is a composite based on percentage of scores for those students at and above the satisfactory level on each test. Target: 55</li>
-    		<li><strong>Postsecondary Readiness</strong>: Score is derived from STAAR performance, the rate for finishing recommended/distinguished plans, graduation rates of select student groups and the rate of those who met the college-ready criteria on the TAKS exit-level test or the SAT/ACT test in English language arts and math. Target: Elementary 12, Middle Schools 13, High Schools 57, Districts 57</li>
-    		</ul>
+    		<li><strong>Student Achievement</strong>: Based on the percentage of test scores at or above the satisfactory level. All students and all tests.</li>
+    		<li><strong>Student Progress</strong>: A weighted composite based on the percentage of scores for test-takers that met or exceeded progress measures on reading, math and writing.</li>
+    		<li><strong>Closing Performance Gaps</strong>: Includes students who are economically disadvantaged and the two lowest performing ethnic groups the year before. Score is a composite based on percentage of scores for those students at and above Level 2 on each test.</li>
+    		<li><strong>Postsecondary Readiness</strong>: Derived from the combination of the graduation rate for select student groups and the rate for finishing recommended/distinguished plans. Applies only to high schools and districts.</li>
       </div>
     </div>
 
