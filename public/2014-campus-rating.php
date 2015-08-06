@@ -7,7 +7,7 @@
   $meta = array(
     "title" => "2014 Texas school accountability ratings | Statesman.com",
     "description" => "Texas Education Agency ratings for all Texas public schools.",
-    "thumbnail" => "http://projects.statesman.com/project_path/assets/share.png", // needs update
+    "thumbnail" => "http://projects.statesman.com/databases/school-accountability-ratings/assets/share.png", // needs update
     "shortcut_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_5126cb2068bd43d1ab4e17660ac48255.ico",
     "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_fa2d2d6e73614535b997734c7e7d2287.png",
     "url" => "http://projects.statesman.com/databases/school-accountability-ratings/",
@@ -66,8 +66,9 @@
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="./">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="#">Link</a></li>
+        <li><a href="./">Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="2013-search.php">2013</a></li>
+        <li class="active"><a href="2014-search.php">2014</a></li>
         <li class="visible-xs small-social"><a target="_blank" href="https://www.facebook.com/sharer.php?u=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-facebook-square"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?url=<?php echo urlencode($meta['url']); ?>&via=<?php print urlencode($meta['twitter']); ?>&text=<?php print urlencode($meta['title']); ?>"><i class="fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-google-plus"></i></a></li>
       </ul>
         <ul class="nav navbar-nav navbar-right social hidden-xs">
@@ -90,7 +91,7 @@
       <div class="col-lg-8">
         <div class="btn-group" role="group" aria-label="Years">
           <a class="btn btn-default" href="2013-campus-rating.php" role="button">2013</a>
-          <a class="btn btn-default" href="2014-campus-rating.php" role="button">2014</a>
+          <a class="btn btn-primary" href="2014-campus-rating.php" role="button">2014</a>
           <a class="btn btn-default" href="./" role="button">Search</a>
         </div>
 

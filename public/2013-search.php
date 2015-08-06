@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <?php
   $meta = array(
-    "title" => "Texas school accountability ratings | Statesman.com",
+    "title" => "2013 Texas school accountability ratings | Statesman.com",
     "description" => "Texas Education Agency ratings for all Texas public schools.",
     "thumbnail" => "http://projects.statesman.com/databases/school-accountability-ratings/assets/share.png", // needs update
     "shortcut_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_5126cb2068bd43d1ab4e17660ac48255.ico",
@@ -66,8 +66,8 @@
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="./">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="2013-search.php">2013</a></li>
+        <li><a href="./">Home <span class="sr-only">(current)</span></a></li>
+        <li class="active"><a href="2013-search.php">2013</a></li>
         <li><a href="2014-search.php">2014</a></li>
         <li class="visible-xs small-social"><a target="_blank" href="https://www.facebook.com/sharer.php?u=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-facebook-square"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?url=<?php echo urlencode($meta['url']); ?>&via=<?php print urlencode($meta['twitter']); ?>&text=<?php print urlencode($meta['title']); ?>"><i class="fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-google-plus"></i></a></li>
       </ul>
@@ -80,25 +80,22 @@
   </div>
 </nav>
 <div id="back">
+
   <div class="container">
     <div class="row">
       <div class="col-lg-12 header">
-      <h1 id="pagetitle">Texas school accountability ratings</h1>
-      <!-- <p class="author">By So Andso</p> -->
+      <h1 id="pagetitle">2013 Texas school accountability ratings</h1>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-8">
-
         <p><strong>To find a specific school:</strong> Type part of the name in Campus Name. Leave other fields at "All".</p>
         <p><strong>To compare schools:</strong> Start with desired Region, then change others dropdowns that apply to your comparison. Leave "Campus Name" blank unless you want all schools with that name. Click Search.</p>
-
-        <!-- 2014 Campus Search_v2 -->
-        <div id="cbe76c00000e6a09ca3fad4e93b61f"></div>
+        <!-- 2013 Campus Search_v2 -->
+        <div id="cbe76c0000c652e6d6d21d453c8c53"></div>
         <script type="text/javascript" src="http://b1.caspio.com/scripts/e1.js"></script>
-        <script type="text/javascript">try{f_cbload("e76c00000e6a09ca3fad4e93b61f","http:");}catch(v_e){;}</script>
-        <div id="cxkg"><a href="http://b1.caspio.com/dp.asp?AppKey=e76c00000e6a09ca3fad4e93b61f">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
-
+        <script type="text/javascript">try{f_cbload("e76c0000c652e6d6d21d453c8c53","http:");}catch(v_e){;}</script>
+        <div id="cxkg"><a href="http://b1.caspio.com/dp.asp?AppKey=e76c0000c652e6d6d21d453c8c53">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
       </div>
       <div class="col-lg-4">
         <div class="panel panel-default">
@@ -111,7 +108,10 @@
         </div>
       </div>
 
+
     </div>
+
+
 
   </div>
 
