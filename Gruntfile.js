@@ -110,7 +110,7 @@ module.exports = function(grunt) {
           authKey: 'cmg'
         },
         src: 'public',
-        dest: '/stage_aas/projects/databases/school-accountability-ratings/',
+        dest: '/prod_aas/projects/databases/school-accountability-ratings/',
         exclusions: ['dist/tmp','Thumbs.db','.DS_Store'],
         simple: false,
         useList: false
@@ -129,7 +129,7 @@ module.exports = function(grunt) {
           text: 'Project published to stage: http://stage.host.coxmediagroup.com/aas/projects/databases/school-accountability-ratings/ {{message}}'
         },
         prod: {
-          text: 'Project published to prod: http://projects.statesman.com/ {{message}}'
+          text: 'Project published to prod: http://projects.statesman.com/databases/school-accountability-ratings/ {{message}}'
         }
     }
 
