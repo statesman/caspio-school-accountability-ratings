@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <?php
   $meta = array(
-    "title" => "Single page project | Statesman.com",
-    "description" => "Description for single-page-project.",
+    "title" => "2014 Texas school accountability ratings | Statesman.com",
+    "description" => "Texas Education Agency ratings for all Texas public schools.",
     "thumbnail" => "http://projects.statesman.com/project_path/assets/share.png", // needs update
     "shortcut_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_5126cb2068bd43d1ab4e17660ac48255.ico",
     "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_fa2d2d6e73614535b997734c7e7d2287.png",
-    "url" => "http://projects.statesman.com/project_path/",
+    "url" => "http://projects.statesman.com/databases/school-accountability-ratings/",
     "twitter" => "statesman"
   );
 ?>
