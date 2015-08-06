@@ -97,23 +97,19 @@
           <a class="btn btn-default" href="./" role="button">New search</a>
         </div>
 
-        <!-- 2014 Campus Detail_v2 -->
-        <div id="cbe76c00000e3c94d2346f4d79b45a"><a href="http://www.caspio.com" target="_blank">Online Database</a> by Caspio</div>
-        <script type="text/javascript" src="http://b1.caspio.com/scripts/e1.js"></script>
-        <script type="text/javascript">try{f_cbload("e76c00000e3c94d2346f4d79b45a","http:");}catch(v_e){;}</script>
-        <div id="cxkg"><a href="http://b1.caspio.com/dp.asp?AppKey=e76c00000e3c94d2346f4d79b45a">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
+        <!-- 2015 Campus Detail goes here -->
 
       </div>
       <div class="col-lg-4">
         <div class="panel panel-default">
           <div class="panel-body">
             <h4>Reading Accountability Ratings</h4>
-        		<p>In the second year of the new accountability system, schools are deemed to have “met standard” or face “improvement required” ratings based on a measure comprised of four components. To meet state standards, each school and district must hit the target score on all indexes.</p>
+        		<p>In the second year of the new accountability system, schools are deemed to have “met standard” or face “improvement required” ratings based on a measure comprised of four components. To meet state standards, each school and district must hit the target score on the indexes.</p>
         		<ul>
-        		<li><strong>Student Achievement</strong>: Score is based on the percentage of test scores at or above the satisfactory level. All students and all tests. Target: 55</li>
+        		<li><strong>Student Achievement</strong>: Score is based on the percentage of test scores at or above the satisfactory level. All students and all tests. <strong>Target: 55</strong></li>
         		<li><strong>Student Progress</strong>: Score is a weighted composite based on the percentage of scores for test-takers that met or exceeded progress measures on reading, math and writing. High schools were not rated in this category.</li>
-        		<li><strong>Closing Performance Gaps</strong>: Includes students who are economically disadvantaged and the two lowest performing ethnic groups the year before. Score is a composite based on percentage of scores for those students at and above the satisfactory level on each test. Target: 55</li>
-        		<li><strong>Postsecondary Readiness</strong>: Score is derived from STAAR performance, the rate for finishing recommended/distinguished plans, graduation rates of select student groups and the rate of those who met the college-ready criteria on the TAKS exit-level test or the SAT/ACT test in English language arts and math. Target: Elementary 12, Middle Schools 13, High Schools 57, Districts 57</li>
+        		<li><strong>Closing Performance Gaps</strong>: Includes students who are economically disadvantaged and the two lowest performing ethnic groups the year before. Score is a composite based on percentage of scores for those students at and above the satisfactory level on each test. <strong>Target: 55</strong></li>
+        		<li><strong>Postsecondary Readiness</strong>: Score is derived from STAAR performance, the rate for finishing recommended/distinguished plans, graduation rates of select student groups and the rate of those who met the college-ready criteria on the TAKS exit-level test or the SAT/ACT test in English language arts and math. <strong>Target: Elementary 12, Middle Schools 13, High Schools 57, Districts 57</strong></li>
         		</ul>
           </div>
         </div>
