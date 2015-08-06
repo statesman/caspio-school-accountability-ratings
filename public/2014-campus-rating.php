@@ -93,7 +93,7 @@
         <div class="btn-group" role="group" aria-label="Years">
           <a class="btn btn-default" href="2013-campus-rating.php" role="button">2013</a>
           <a class="btn btn-primary" href="2014-campus-rating.php" role="button">2014</a>
-          <a class="btn btn-primary" href="2015-campus-rating.php" role="button">2015</a>
+          <a class="btn btn-default" href="2015-campus-rating.php" role="button">2015</a>
           <a class="btn btn-default" href="./" role="button">New search</a>
         </div>
 
