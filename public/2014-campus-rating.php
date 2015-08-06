@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <?php
   $meta = array(
-    "title" => "2014 Texas school accountability ratings | Statesman.com",
+    "title" => "Single page project | Statesman.com",
     "description" => "Description for single-page-project.",
     "thumbnail" => "http://projects.statesman.com/project_path/assets/share.png", // needs update
     "shortcut_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_5126cb2068bd43d1ab4e17660ac48255.ico",
@@ -67,8 +67,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="./">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="#">2013</a></li>
-        <li><a href="#">2014</a></li>
+        <li><a href="#">Link</a></li>
         <li class="visible-xs small-social"><a target="_blank" href="https://www.facebook.com/sharer.php?u=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-facebook-square"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?url=<?php echo urlencode($meta['url']); ?>&via=<?php print urlencode($meta['twitter']); ?>&text=<?php print urlencode($meta['title']); ?>"><i class="fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-google-plus"></i></a></li>
       </ul>
         <ul class="nav navbar-nav navbar-right social hidden-xs">
@@ -80,29 +79,41 @@
   </div>
 </nav>
 <div id="back">
+
   <div class="container">
     <div class="row">
       <div class="col-lg-12 header">
-      <h1 id="pagetitle">Texas school accountability ratings</h1>
-      <!-- <p class="author">By So Andso</p> -->
+      <h1 id="pagetitle">2014 Texas school accountability ratings</h1>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-8">
-
-        <div class="slidingDiv panel">
-        <p><strong>To find a specific school:</strong> You can leave the region, district and grade type at "All" and just type in part of a campus name.</p>
-        <p><strong>To compare schools:</strong> Start with the Region dropdown, then change others that apply to your comparison. Example: Start with Region and District, and then select the Grade Type you wish to compare schools across. Leave "Campus Name" blank. Click Search.</p>
+        <div class="btn-group" role="group" aria-label="Years">
+          <a class="btn btn-default" href="2013-campus-rating.php" role="button">2013</a>
+          <a class="btn btn-default" href="2014-campus-rating.php" role="button">2014</a>
+          <a class="btn btn-default" href="./" role="button">Search</a>
         </div>
 
-        <div id="cbe76c00000e6a09ca3fad4e93b61f"></div>
+<!-- 2014 Campus Detail_1 -->
+        <div id="cbe76c00000e3c94d2346f4d79b45a"><a href="http://www.caspio.com" target="_blank">Online Database</a> by Caspio</div>
         <script type="text/javascript" src="http://b1.caspio.com/scripts/e1.js"></script>
-        <script type="text/javascript">try{f_cbload("e76c00000e6a09ca3fad4e93b61f","http:");}catch(v_e){;}</script>
-        <div id="cxkg"><a href="http://b1.caspio.com/dp.asp?AppKey=e76c00000e6a09ca3fad4e93b61f">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
-
+        <script type="text/javascript">try{f_cbload("e76c00000e3c94d2346f4d79b45a","http:");}catch(v_e){;}</script>
+        <div id="cxkg"><a href="http://b1.caspio.com/dp.asp?AppKey=e76c00000e3c94d2346f4d79b45a">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
 
       </div>
+      <div class="col-lg-4">
+        <h3>Reading Accountability Ratings</h3>
+    		<p>In the second year of the new accountability system, schools are deemed to have “met standard” or face “improvement required” ratings based on a measure comprised of four components. To meet state standards, each school and district must hit the target score on all indexes.</p>
+    		<ul>
+    		<li><strong>Student Achievement</strong>: Score is based on the percentage of test scores at or above the satisfactory level. All students and all tests. Target: 55</li>
+    		<li><strong>Student Progress</strong>: Score is a weighted composite based on the percentage of scores for test-takers that met or exceeded progress measures on reading, math and writing. High schools were not rated in this category.</li>
+    		<li><strong>Closing Performance Gaps</strong>: Includes students who are economically disadvantaged and the two lowest performing ethnic groups the year before. Score is a composite based on percentage of scores for those students at and above the satisfactory level on each test. Target: 55</li>
+    		<li><strong>Postsecondary Readiness</strong>: Score is derived from STAAR performance, the rate for finishing recommended/distinguished plans, graduation rates of select student groups and the rate of those who met the college-ready criteria on the TAKS exit-level test or the SAT/ACT test in English language arts and math. Target: Elementary 12, Middle Schools 13, High Schools 57, Districts 57</li>
+    		</ul>
+      </div>
     </div>
+
+
 
   </div>
 
