@@ -6,3 +6,10 @@
     <p>For more on the ratings system, TEA offers the <a href="http://ritter.tea.state.tx.us/perfreport/account/2015/manual/index.html" target="_blank">2015 Accountability Manual</a>, or this <a href="http://tea.texas.gov/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25769815110&libID=25769815157" target="_blank">one-page summary</a>, and <a href="http://ritter.tea.state.tx.us/perfreport/account/2015/index.html" target="_blank">more.</a></p>
   </div>
 </div>
+
+<div class="panel panel-default">
+  <div class="panel-body">
+    <h4><a href="http://www.mystatesman.com/news/news/four-east-austin-campuses-rebound-meet-state-stand/nnFcr/#27c5edc6.257250.735817">Four East Austin campuses rebound, meet state standards</a></h4>
+    <p>The Austin school district’s Eastside Memorial High School met state accountability standards for the first time in more than a decade this year, according to state data released Friday, and is one of three East Austin schools that have rebounded after big changes in recent years.</p>
+  </div>
+</div>
