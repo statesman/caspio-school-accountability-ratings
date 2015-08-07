@@ -90,6 +90,9 @@
     </div>
     <div class="row">
       <div class="col-lg-8">
+
+        <h5>Use buttons below to see how this school performed in other years.</h5>
+
         <div class="btn-group" role="group" aria-label="Years">
           <a class="btn btn-default" href="2013-campus-rating.php" role="button">2013</a>
           <a class="btn btn-primary" href="2014-campus-rating.php" role="button">2014</a>
