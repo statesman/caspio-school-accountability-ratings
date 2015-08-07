@@ -95,6 +95,10 @@
         <p><strong>To compare schools:</strong> Start with desired Region, then change others dropdowns that apply to your comparison. Leave "Campus Name" blank unless you want all schools with that name. Click Search.</p>
 
         <!-- 2015 Campus Search goes here -->
+        <div id="cbe76c000010b3b07748f0404aa9c3"></div>
+        <script type="text/javascript" src="http://b1.caspio.com/scripts/e1.js"></script>
+        <script type="text/javascript">try{f_cbload("e76c000010b3b07748f0404aa9c3","http:");}catch(v_e){;}</script>
+        <div id="cxkg"><a href="http://b1.caspio.com/dp.asp?AppKey=e76c000010b3b07748f0404aa9c3">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
 
       </div>
       <div class="col-lg-4">
