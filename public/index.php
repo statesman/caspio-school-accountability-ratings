@@ -65,18 +65,6 @@
         </a>
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="./">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="2013-search.php">2013</a></li>
-        <li><a href="2014-search.php">2014</a></li>
-        <li><a href="2015-search.php">2015</a></li>
-        <li class="visible-xs small-social"><a target="_blank" href="https://www.facebook.com/sharer.php?u=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-facebook-square"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?url=<?php echo urlencode($meta['url']); ?>&via=<?php print urlencode($meta['twitter']); ?>&text=<?php print urlencode($meta['title']); ?>"><i class="fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-google-plus"></i></a></li>
-      </ul>
-        <ul class="nav navbar-nav navbar-right social hidden-xs">
-          <li><a target="_blank" href="https://www.facebook.com/sharer.php?u=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-facebook-square"></i></a></li>
-          <li><a target="_blank" href="https://twitter.com/intent/tweet?url=<?php echo urlencode($meta['url']); ?>&via=<?php print urlencode($meta['twitter']); ?>&text=<?php print urlencode($meta['title']); ?>"><i class="fa fa-twitter"></i></a></li>
-          <li><a target="_blank" href="https://plus.google.com/share?url=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-google-plus"></i></a></li>
-        </ul>
     </div>
   </div>
 </nav>
@@ -84,25 +72,15 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 header">
-      <h1 id="pagetitle">2015 Texas school accountability ratings</h1>
+      <h1 id="pagetitle">Texas school accountability ratings</h1>
       <!-- <p class="author">By So Andso</p> -->
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-8">
-
-        <p><strong>To find a specific school:</strong> Type part of the name in Campus Name. Leave other fields at "All".</p>
-        <p><strong>To compare schools:</strong> Start with desired Region, then change others dropdowns that apply to your comparison. Leave "Campus Name" blank unless you want all schools with that name. Click Search.</p>
-
-        <!-- 2015 Campus Search goes here -->
-        <div id="cbe76c000010b3b07748f0404aa9c3"></div>
-        <script type="text/javascript" src="http://b1.caspio.com/scripts/e1.js"></script>
-        <script type="text/javascript">try{f_cbload("e76c000010b3b07748f0404aa9c3","http:");}catch(v_e){;}</script>
-        <div id="cxkg"><a href="http://b1.caspio.com/dp.asp?AppKey=e76c000010b3b07748f0404aa9c3">Click here</a> to load this Caspio <a href="http://www.caspio.com" title="Online Database">Online Database</a>.</div>
-
-      </div>
-      <div class="col-lg-4">
-        <?php include "includes/about-2015.inc";?>
+      <div class="col-xs-12">
+        <hr>
+        <h2 style="text-align: center;">These resource is no longer available. We apologize for the inconvenence.</h2>
+        <hr>
       </div>
 
     </div>
