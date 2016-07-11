@@ -1,6 +1,12 @@
 School accountability ratings
 ==============================
 
+## Mothballed
+
+this is the mothballed version. master is the last published version.
+
+------
+
 A caspio fed database of school ratings from the TEA. Uses the single-page-project template, even though it is not a single page ;-).
 
 New ratings come out August 7, 2015.
