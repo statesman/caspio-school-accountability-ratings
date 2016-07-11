@@ -79,7 +79,7 @@
     <div class="row">
       <div class="col-xs-12">
         <hr>
-        <h2 style="text-align: center;">These resource is no longer available. We apologize for the inconvenence.</h2>
+        <h2 style="text-align: center;">These resource is no longer available. We apologize for the inconvenience.</h2>
         <hr>
       </div>
 
