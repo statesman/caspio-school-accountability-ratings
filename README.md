@@ -1,6 +1,16 @@
 School accountability ratings
 ==============================
 
+## Project mothballed
+
+With our contract end with Caspio, this database has ended.
+
+This `master` branch is the last published version of this database. There is another branch `mothball` that has been published in it's place.
+
+A backup of the data has been added to this repo. `schoolrating-caspio.zip`
+
+--------
+
 A caspio fed database of school ratings from the TEA. Uses the single-page-project template, even though it is not a single page ;-).
 
 New ratings come out August 7, 2015.
